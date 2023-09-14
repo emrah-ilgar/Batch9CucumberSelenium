@@ -16,7 +16,7 @@ Feature:  Eurotech Login Tests
 #    Given The user is on the login page
     When The user enters student credentials
     Then The user should be able to login
-    Then The user should be able to loginfhfhfhfh
+
 
   @Developer
   Scenario: Login as Developer
